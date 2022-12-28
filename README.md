@@ -7,6 +7,8 @@
 ---
 ## 02. seoul_yeonhui_population👥
 ### <연희동의 인구 구조 데이터 시각화> 
+![seoul_yeonhui_population](https://user-images.githubusercontent.com/93873399/209832188-a7beb6a8-8d7c-4f2a-9ee7-61443ee8abd4.png){: width="10%" height="10%"}
 
 ---
 ## 03. Jeju_gender_population🏝️
+### <제주도에는 정말 여성 인구가 더 많을까?>
